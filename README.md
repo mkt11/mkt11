@@ -16,6 +16,7 @@
   <img width="700px"  src="https://github.com/mkt11/AI_Zunda_web_release/blob/master/img/aizunda.png?raw=true">
   <h4>
    <a href="https://github.com/mkt11/AI_Zunda_web_release?tab=readme-ov-file">リポジトリを見る→</a>
+    <a href="https://youtu.be/-wveWR9qSKw">紹介動画→</a>
   </h4>
 </p>
 <li>プロダクト名：AIずんだWeb</li>
