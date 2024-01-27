@@ -9,3 +9,4 @@
     <img height="20" src="https://img.shields.io/github/followers/mkt11?label=follow&logo=github&style=flat" />
   </a>
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
