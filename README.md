@@ -23,6 +23,19 @@
 <li>ハッカソン初参戦で，二冠を取得</li>
 <li>チームリーダーとして，プログラム全般，マネジメント，広報を担当</li>
 
+- 2024/01/23：学長報告の様子を<a href="https://www.chunichi.co.jp/article/841918?rct=gifu">中日新聞</a>にて掲載していただきました！
+  - 
+- 2024/01/19：学長報告の様子を<a href="https://www.gifu-np.co.jp/articles/-/339196">岐阜新聞</a>にて掲載していただきました！
+  - 
+- 2024/01/19：学長報告の様子が<a href="https://www.ccn-catv.co.jp/ch/lineup/area-topics/list/029702.html">エリアトピックス</a>にて放映されました！
+  - 
+- 2024/01/18：技育アドバンスでの大賞受賞について学長に報告しました！  　
+  -
+  - <a href="https://www.gifu-u.ac.jp/news/news/2024/01/entry23-12963.html">こちら</a>で紹介されています！
+   
+     <img src="img\20240118-2-thumb-310xauto-37515.png"> 
+     <img src="img\20240118-1-thumb-310xauto-37516.png"> 
+
 <h1 >技術 🛠</h1>
 
 <table>
