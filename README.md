@@ -38,9 +38,3 @@
 <img src="https://img.shields.io/badge/-Vercel-black.svg?logo=vercel&style=flat" />
 <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat" />
 </p>
-
-
-<h1 align="center">Activity 🏃💨</h1>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkt11&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats?username=anuraghazra&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkt11&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
