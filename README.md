@@ -14,7 +14,6 @@
 <p>
   <h2 align="center">技育ハッカソンアドバンス　大賞🏆 / 技育ハッカソン　最優秀賞🥇</h2>
   <img width="700px"  src="https://github.com/mkt11/AI_Zunda_web_release/blob/master/img/aizunda.png?raw=true">
-  <img width="700px" src="https://github.com/mkt11/AI_Zunda_web_release/blob/master/img/1.png?raw=true">
   <h4>
    <a href="https://github.com/mkt11/AI_Zunda_web_release?tab=readme-ov-file">リポジトリを見る→</a>
   </h4>
