@@ -14,12 +14,12 @@
 <p>
   <h2 align="center">技育ハッカソンアドバンス　大賞🏆 / 技育ハッカソン　最優秀賞🥇 </h2>
   <img width="700px"  src="https://github.com/mkt11/AI_Zunda_web_release/blob/master/img/aizunda.png?raw=true">
-  <h4>
+
+   <h4>
    <a href="https://github.com/mkt11/AI_Zunda_web_release?tab=readme-ov-file">リポジトリを見る→</a>
-    <a href="https://youtu.be/-wveWR9qSKw">紹介動画→</a>
   </h4>
 </p>
-<li>プロダクト名：AIずんだWeb</li>
+<li>プロダクト名：AIずんだWeb　<a href="https://youtu.be/-wveWR9qSKw">紹介動画</a></li>
 <li>概要：声質変換のAIモデルのデプロイにより，誰でも簡単にずんだもんの声になることができる日本初のWebアプリ</li>
 <li>こだわったポイント:AIボイスチェンジャーに存在する敷居を破壊する</li>
 <li>役割：チームリーダー，プログラム全般，マネジメント，広報など</li>
