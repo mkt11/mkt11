@@ -12,7 +12,7 @@
 </br>
 
 <p>
-  <h2 align="center">技育ハッカソンアドバンス　大賞🏆 / 技育ハッカソン　最優秀賞🥇</h2>
+  <h2 align="center">技育ハッカソンアドバンス　大賞🏆 / 技育ハッカソン　最優秀賞🥇 ハッカソン初参戦で，二冠を取得!</h2>
   <img width="700px"  src="https://github.com/mkt11/AI_Zunda_web_release/blob/master/img/aizunda.png?raw=true">
   <h4>
    <a href="https://github.com/mkt11/AI_Zunda_web_release?tab=readme-ov-file">リポジトリを見る→</a>
@@ -20,7 +20,7 @@
 </p>
 <li>プロダクト名：AIずんだWeb</li>
 <li>概要：声質変換のAIモデルのデプロイにより，誰でも簡単にずんだもんの声になることができる日本初のWebアプリ</li>
-<li>ハッカソン初参戦で，二冠を取得 こだわったポイントは，AIボイスチェンジャーに存在する敷居を破壊すること</li>
+<li>こだわったポイント:AIボイスチェンジャーに存在する敷居を破壊する</li>
 <li><a href="https://www.gifu-u.ac.jp/news/news/2024/01/entry23-12963.html">岐阜大学長に報告 </a> , <a href="https://www.chunichi.co.jp/article/841918?rct=gifu">中日新聞</a> , <a href="https://www.gifu-np.co.jp/articles/-/339196">岐阜新聞</a> , <a href="https://www.ccn-catv.co.jp/ch/lineup/area-topics/list/029702.html">エリアトピックス</a> </li>
 
 <h1 >技術 🛠</h1>
