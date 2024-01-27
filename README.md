@@ -23,7 +23,7 @@
 <li>概要：声質変換のAIモデルのデプロイにより，誰でも簡単にずんだもんの声になることができる日本初のWebアプリ</li>
 <li>こだわったポイント:AIボイスチェンジャーに存在する敷居を破壊する</li>
 <li>役割：チームリーダー，プログラム全般，マネジメント，広報など</li>
-<li>ハッカソン初参戦作品</li>
+<li>ハッカソン初参加作品</li>
 <li><a href="https://www.gifu-u.ac.jp/news/news/2024/01/entry23-12963.html">岐阜大学長に報告 </a> , <a href="https://www.chunichi.co.jp/article/841918?rct=gifu">中日新聞</a> , <a href="https://www.gifu-np.co.jp/articles/-/339196">岐阜新聞</a> , <a href="https://www.ccn-catv.co.jp/ch/lineup/area-topics/list/029702.html">エリアトピックス</a> </li>
 
 <h1 >技術 🛠</h1>
