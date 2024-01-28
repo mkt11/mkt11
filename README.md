@@ -12,7 +12,7 @@
 </br>
 
 <p>
-  <h2 align="center">技育ハッカソンアドバンス　大賞🏆 / 技育ハッカソン　最優秀賞🥇 </h2>
+  <h2 align="center">技育CAMPアドバンスVol4　大賞🏆 / 技育CAMPマンスリーハッカソンVol11　最優秀賞🥇 </h2>
   <img width="1000px"  src="https://github.com/mkt11/AI_Zunda_web_release/blob/master/img/aizunda.png?raw=true">
 
    <h4>
