@@ -1,4 +1,4 @@
-<div>
+ <div>
  <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=mkt11" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mkt11">
@@ -50,7 +50,7 @@
    <a href="https://github.com/mkt11/Moitter">リポジトリを見る→</a>
   </h4>
 </p>
-<li>プロダクト名：Moitter  <a href="https://youtu.be/QQ5ODnh8OI8">紹介動画</a> </li>
+<li>プロダクト名：Moitter   <a href="https://youtu.be/QQ5ODnh8OI8">紹介動画</a> </li>
 <li>概要：5chとTwitterとLINEを組み合わせた　リアルタイムコミュニケーションSNSスマホアプリ　AndroidStudioで作成</li>
 <li>こだわったポイント:いいね機能の実装やFireBaseを利用したログイン，サインアップなどを取り入れたこと　新しいSNSを作ったこと</li>
 <li>役割：個人製作なので，すべて自分が担当</li>
