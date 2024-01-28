@@ -26,6 +26,21 @@
 <li>ハッカソン初参加作品</li>
 <li><a href="https://www.gifu-u.ac.jp/news/news/2024/01/entry23-12963.html">岐阜大学長に報告 </a> , <a href="https://www.chunichi.co.jp/article/841918?rct=gifu">中日新聞</a> , <a href="https://www.gifu-np.co.jp/articles/-/339196">岐阜新聞</a> , <a href="https://www.ccn-catv.co.jp/ch/lineup/area-topics/list/029702.html">エリアトピックス</a> </li>
 
+<p>
+  <h2 align="center">Portion Craft VR🥽</h2>
+ <p align="center">
+  <img width="400px"  src="https://github.com/mkt11/PotionCraftVR/assets/63161190/c2a5d033-ad54-4df9-ba30-50308b59c099">
+ </p>
+   <h4>
+   <a href="https://youtu.be/pd6-PuR0lT0">紹介動画を見る→</a>
+  </h4>
+</p>
+<li>プロダクト名：PortionCraftVR　
+<li>概要：クエストのお題に沿った薬を調合するVRゲーム　Unityで制作</li>
+<li>こだわったポイント:現実に本当に存在する調剤の手法を再現(ミミクリーを追求)，VRなので臨場感を意識</li>
+<li>役割：チームリーダー，プログラム全般，マネジメントなど</li>
+
+
 <h1 >技術 🛠</h1>
 
 <table>
