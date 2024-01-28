@@ -35,7 +35,23 @@
    <a href="https://youtu.be/pd6-PuR0lT0">紹介動画を見る→</a>
   </h4>
 </p>
-<li>プロダクト名：PortionCraftVR　
+<li>プロダクト名：PortionCraftVR　</li>
+<li>概要：5chとTwitterとLINEを組み合わせた　リアルタイムコミュニケーションSNSスマホアプリ　AndroidStudioで作成</li>
+<li>こだわったポイント:いいね機能の実装やFireBaseを利用したログイン，サインアップなどを取り入れたこと　新しいSNSを作ったこと</li>
+<li>役割：個人製作なので，すべて自分が担当</li>
+
+
+
+<p>
+  <h2 align="center">Moitter ✉️</h2>
+
+  <img  width="1000px"   src="https://github.com/mkt11/Moitter/assets/63161190/92ca8bf9-2281-4e59-a575-469afdffce5a">
+
+   <h4>
+   <a href="https://youtu.be/pd6-PuR0lT0">紹介動画を見る→</a>
+  </h4>
+</p>
+<li>プロダクト名：Moitter</li>
 <li>概要：クエストのお題に沿った薬を調合するVRゲーム　Unityで制作</li>
 <li>こだわったポイント:現実に本当に存在する調剤の手法を再現(ミミクリーを追求)，VRなので臨場感を意識</li>
 <li>役割：チームリーダー，プログラム全般，マネジメントなど</li>
