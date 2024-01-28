@@ -62,6 +62,7 @@
   <tr>
     <td>Env</td>
     <td>Lang</td>
+    <td>Design</td>
     <td>DB</td>
   </tr>
   <tr>
@@ -83,7 +84,14 @@
       <br>
       <img src="https://img.shields.io/badge/-C-00599C.svg?logo=c&style=flat">
       <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=flat">
+     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
       <img src="https://img.shields.io/badge/-Java-F80000.svg?logo=&style=flat">
+    </td>
+    <td>
+     <br>
+      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+    </br>
+      <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
     </td>
     <td>
       <img src="https://img.shields.io/badge/-MySQL-000000.svg?logo=mysql&style=flat">
