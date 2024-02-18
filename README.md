@@ -61,7 +61,7 @@
 <table>
   <tr>
     <td>Env</td>
-    <td>Lang</td>
+    <td></td>
     <td>Design</td>
     <td>DB</td>
   </tr>
