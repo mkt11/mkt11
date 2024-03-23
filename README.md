@@ -19,7 +19,7 @@
    <a href="https://github.com/mkt11/AI_Zunda_web_release?tab=readme-ov-file">リポジトリを見る→</a>
   </h4>
 </p>
-<li>プロダクト名：AIずんだWeb　<a href="https://youtu.be/-wveWR9qSKw">紹介動画</a></li>
+<li>プロダクト名：AIずんだWeb　<a href="https://youtu.be/-wveWR9qSKw">紹介動画</a>, <a href="https://zenn.dev/mkt11/articles/8fe6b7273077d2">小学校へ講演に行った話をまとめた記事</a> </li>
 <li>概要：声質変換のAIモデルのAWS SageMakerを用いたデプロイにより，誰でも簡単にウェブ上でずんだもんの声になることができる日本初のWebアプリ</li>
 <li>こだわったポイント:AIボイスチェンジャーに存在する敷居を破壊する</li>
 <li>役割：チームリーダー，プログラム全般，マネジメント，広報など</li>
